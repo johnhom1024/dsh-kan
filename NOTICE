@@ -1,0 +1,13 @@
+Third-party notices
+
+1. DeepSeek Harness (@deepseek-ai/*) — host and client APIs used at runtime.
+   This plugin calls published DSH services (webServer, connection, credentials,
+   tools, locale, slots) and copies the documented client-module and
+   slot-registration shapes. It does not vendor DSH code.
+
+No third-party runtime program is bundled. In particular this plugin does not
+use, fetch, or bundle @kan.bn/mcp or any other MCP server: the four agent tools
+are implemented in lib/tools.js and only issue GET requests.
+
+Icons and the preview illustration in this repository are original work
+released under the MIT license of this project.

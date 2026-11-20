@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "Kan boards",
+    "description": "Read your Kan workspaces, boards and cards inside DeepSeek Harness. The page is read-only, keeps the Kan API token on the Host, and adds four built-in read-only Kan tools for the agent. No write tool is provided.",
+    "detail": "docs/DETAIL.md"
+  },
+  "entry": "Kan"
+}

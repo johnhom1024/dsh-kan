@@ -1,0 +1,12 @@
+# dsh-kan bundle patch.
+# The row is editable in the Plugin Manager (Config schema below) and here.
+- insert:
+    - id: dsh-kan
+      name: dsh-kan
+      config:
+        baseUrl: !!js process.env.DSH_KAN_BASE_URL ?? ''
+        tokenRef: KAN_API_TOKEN
+        requestTimeoutMs: 15000
+        maxResponseBytes: 2000000
+        allowInsecureHttp: false
+        enableTools: true

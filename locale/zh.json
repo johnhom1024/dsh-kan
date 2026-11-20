@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "Kan 看板",
+    "description": "在 DeepSeek Harness 里只读查看你的 Kan 工作区、看板和卡片。页面只读，Kan API token 只在 Host 端使用，并为 Agent 提供四个内置只读 Kan 工具；不提供任何写入工具。",
+    "detail": "docs/DETAIL.zh.md"
+  },
+  "entry": "Kan"
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Three Kan board columns with cards">
+  <rect x="0" y="0" width="640" height="300" fill="#f6f7f9"/>
+  <rect x="32" y="32" width="576" height="236" rx="16" fill="#ffffff" stroke="#d9dde3"/>
+
+  <rect x="56" y="56" width="160" height="188" rx="10" fill="#eef2f7"/>
+  <rect x="72" y="72" width="96" height="10" rx="5" fill="#9aa7b6"/>
+  <rect x="72" y="96" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+  <rect x="72" y="142" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+  <rect x="72" y="188" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+
+  <rect x="240" y="56" width="160" height="188" rx="10" fill="#eef2f7"/>
+  <rect x="256" y="72" width="80" height="10" rx="5" fill="#9aa7b6"/>
+  <rect x="256" y="96" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+  <rect x="256" y="142" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+
+  <rect x="424" y="56" width="160" height="188" rx="10" fill="#eef2f7"/>
+  <rect x="440" y="72" width="104" height="10" rx="5" fill="#9aa7b6"/>
+  <rect x="440" y="96" width="128" height="36" rx="8" fill="#ffffff" stroke="#d3dae3"/>
+
+  <circle cx="86" cy="114" r="4" fill="#4c8bf5"/>
+  <circle cx="86" cy="160" r="4" fill="#39b37a"/>
+  <circle cx="270" cy="114" r="4" fill="#f0a23a"/>
+  <circle cx="454" cy="114" r="4" fill="#8a6cf0"/>
+</svg>
